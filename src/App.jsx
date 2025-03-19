@@ -1,10 +1,10 @@
-import Movie from './components/Movie'
+import LandingPage from './components/LandingPage'
 
 function App() {
  
   return (
     <div className="App">
-     <Movie/>
+     <LandingPage/>
     </div>
   )
 }
